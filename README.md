@@ -25,10 +25,7 @@
 
 <div align="center"> Stack's Main Skins </div>
 
-![pony-town-ur fav vamp - c+h freely-trot-blinking-fixed-padded-3x](https://github.com/user-attachments/assets/c47a3be5-1127-4b7d-9d3d-aa97fc418986) ![pony-town-ur fav vamp - sinners-trot-blinking-fixed-padded-3x](https://github.com/user-attachments/assets/bbb39c5a-0813-432a-8257-e0994090727f) ![pony-town-me - sign ata , c+h-trot-blinking-fixed-padded-3x](https://github.com/user-attachments/assets/c0eefc1e-91a8-46bc-811b-d01d05d69356)
-
-
-
+![pony-town-ur fav vamp - sinners-trot-blinking-fixed-padded-1x](https://github.com/user-attachments/assets/2be6f4f4-c5a5-4570-96d6-03aed02c5d95) ![pony-town-ur fav vamp - c+h freely-trot-blinking-fixed-padded-1x](https://github.com/user-attachments/assets/667ae335-3fce-48eb-87c6-ec67ef580afb) ![pony-town-me - sign ata , c+h-trot-blinking-fixed-padded-1x](https://github.com/user-attachments/assets/ef8b9c62-c060-4b6a-ad10-a32a65a6c971)
 
 
 
